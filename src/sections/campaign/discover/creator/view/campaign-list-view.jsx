@@ -372,8 +372,8 @@ export default function CampaignListView() {
             <MenuItem value="">
               Reset
             </MenuItem>
-            <MenuItem value="Highest">Highest Match %</MenuItem>
-            <MenuItem value="Lowest">Lowest Match %</MenuItem>
+            <MenuItem value="Highest">Highest Match</MenuItem>
+            <MenuItem value="Lowest">Lowest Match</MenuItem>
           </Select>
         </Box>
       </Box>
